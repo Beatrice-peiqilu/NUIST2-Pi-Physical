@@ -1,3 +1,6 @@
+#Name:Lu Peiqi
+#Date:2026/3/30
+#Description:This program controls GPIO to turn an LED on and off
 import RPi.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BCM)
